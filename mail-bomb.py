@@ -1,8 +1,8 @@
 import smtplib
 banner = """
 +++++++++++++++++++++++++++++++++++++++++++
-|       Author : Harsh Mishra             |
-|       Channel : harsh ki vani           |
+|       Author  : Rafsan Islam            |
+|       Channel : 1WayHacking.            |
 +++++++++++++++++++++++++++++++++++++++++++
 
         Enable the permissin here 
